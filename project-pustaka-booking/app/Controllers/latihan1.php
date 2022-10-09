@@ -4,8 +4,8 @@
     public function index()
     {
         echo "<h1>Perkenalkan</h1>";
-        echo"Nama saya Imam Nawawi
-            Saya tingga di daerah Ciputat
+        echo"Nama saya Delin Eka Permata
+            Saya tingga di daerah Sintang
             olah raga yang saya sukai adalah
             Bulutangkis";
     }
