@@ -85,3 +85,4 @@ class Autoload extends AutoloadConfig
      */
     public $files = [];
 }
+$autoload['model'] = array('ModelUser','ModelBuku');
